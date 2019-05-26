@@ -1,6 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face was used to help */
 @font-face {
   font-family: 'Baskerville';
   src: url(../fonts/Baskerville.ttc);
